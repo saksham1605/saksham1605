@@ -24,17 +24,6 @@ const saksham = {
   }
 }
 ```
-
-#### Popular Projects
-<a href="https://github.com/SL-Project-MY-PG/SL-Project">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/saksham1605/MinorProject">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
-
-
 #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
